@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first aplication using Ruby on Rails.
+It was made by following the "Getting Started with Rails" guide.
 
-Things you may want to cover:
+Settings:
 
-* Ruby version
+* Ruby version: 3.3.5
 
-* System dependencies
+* Rails version:7.2.2
 
-* Configuration
+* Database engine: Sqlite3
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Sqlite3 version: 3.45.1
